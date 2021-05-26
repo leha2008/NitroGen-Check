@@ -3,9 +3,7 @@ A discord nitro generator and checker.
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
-      <ul>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
+    <li><a href="#installation">Installation</a></li>
     </li>
     <li><a href="#usage">Usage</a></li>
   </ol>
